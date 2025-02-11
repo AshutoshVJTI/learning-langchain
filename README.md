@@ -13,7 +13,7 @@ This repository demonstrates a simple integration of Langchain with OpenAI's LLM
 1. **Clone the Repository** 
 
 ```bash 
-git clone https://github.com/your-username/Learning-Langchain.git 
+git clone https://github.com/ashutoshvjti/learning-langchain.git 
 cd Learning-Langchain 
 ``` 
 
